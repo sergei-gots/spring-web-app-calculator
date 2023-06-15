@@ -1,7 +1,7 @@
 # spring web app "calculator"
 Sky-pro. Spring &amp; Maven. Homework 2.3 "Web Calculator"
 
-urls (with some sample values for @RequestParam "num1" and "num2"):
+URLs with some sample values for @RequestParam "num1" and "num2":
 
 http://localhost:8080/calculator/plus?num1=10&num2=20
 
