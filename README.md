@@ -1,5 +1,5 @@
 # spring web app "calculator"
-Sky-pro. Spring &amp; Maven. Homework 2.3 "Web Calculator"
+Spring &amp; Maven. Workout "Web Calculator"
 
 URLs with some sample values for @RequestParam "num1" and "num2":
 
